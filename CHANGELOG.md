@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.4 (2021-06-18)
+
+
+### Bug Fixes
+
+* ref ([753742c](https://github.com/biglemontree/react-usefull-hooks/commit/753742c0778805355239b722b310c839774f5504))
+
 ### [0.0.3](https://github.com/biglemontree/react-usefull-hooks/compare/v0.0.2...v0.0.3) (2021-06-18)
 
 
