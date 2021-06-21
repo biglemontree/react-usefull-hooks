@@ -1,7 +1,7 @@
 ---
 hero:
-  title: usefull-wheel-component
-  desc: usefull-wheel-component site example
+  title: react-usefull-hooks
+  desc: react-usefull-hooks site example
   actions:
     - text: Getting Started
       link: /components
@@ -18,4 +18,4 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org)
 ---
 
-## Hello usefull-wheel-component!
+## Hello react-usefull-hooks!

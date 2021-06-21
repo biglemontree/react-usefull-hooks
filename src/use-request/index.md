@@ -4,10 +4,9 @@ nav:
   path: /components
 ---
 
-## Foo
+## UseRequest
 
 Demo:
 
-
-<!-- <code src="./code.tsx" /> -->
+<code src="./index.tsx" ></code>
 More skills for writing demo: https://d.umijs.org/guide/demo-principle
