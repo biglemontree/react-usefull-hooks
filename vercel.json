@@ -1,0 +1,13 @@
+{
+  "name": "react-usefull-hooks",
+  "version": 2,
+  "routes": [
+    {
+      "src": "/.*",
+      "dest": "/docs-dist/index.html"
+    }
+  ],
+  "github": {
+    "enabled": true
+  }
+}
